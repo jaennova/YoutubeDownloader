@@ -46,6 +46,3 @@ Sigue las instrucciones en pantalla para ingresar las URL, las rutas de salida y
 
 - URL: https://www.youtube.com/playlist?list=example_playlist_id
 - Carpeta de salida: nombreDeLaCarpeta/playlist
-
-## Licencia
-
